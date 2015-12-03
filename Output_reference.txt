@@ -1,0 +1,127 @@
+
+The overlapping words are/is 
+bank 
+
+The Overlap for the Sense below is 
+bank: sloping land (especially the slope beside a body of water)   1
+
+
+The overlapping words are/is 
+deposits bank mortgage 
+
+The Overlap for the Sense below is 
+depository financial institution, bank, banking concern, banking company: a financial institution that accepts deposits and channels the money into lending activities   3
+
+
+The overlapping words are/is 
+bank 
+
+The Overlap for the Sense below is 
+bank: a long ridge or pile   1
+
+
+The overlapping words are/is 
+in bank 
+
+The Overlap for the Sense below is 
+bank: an arrangement of similar objects in a row or in tiers   2
+
+
+The overlapping words are/is 
+in future 
+
+The Overlap for the Sense below is 
+bank: a supply or stock held in reserve for future use (especially in emergencies)   2
+
+
+The overlapping words are/is 
+in bank 
+
+The Overlap for the Sense below is 
+bank: the funds held by a gambling house or the dealer in some gambling games   2
+
+
+The overlapping words are/is 
+in 
+
+The Overlap for the Sense below is 
+bank, cant, camber: a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force   1
+
+
+The overlapping words are/is 
+in bank 
+
+The Overlap for the Sense below is 
+savings bank, coin bank, money box, bank: a container (usually with a slot in the top) for keeping money at home   2
+
+
+The overlapping words are/is 
+in bank 
+
+The Overlap for the Sense below is 
+bank, bank building: a building in which the business of banking transacted   2
+
+
+The overlapping words are/is 
+in bank 
+
+The Overlap for the Sense below is 
+bank: a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)   2
+
+
+The overlapping words are/is 
+bank 
+
+The Overlap for the Sense below is 
+bank: tip laterally   1
+
+
+The overlapping words are/is 
+bank 
+
+The Overlap for the Sense below is 
+bank: enclose with a bank   1
+
+
+The overlapping words are/is 
+in bank 
+
+The Overlap for the Sense below is 
+bank: do business with a bank or keep an account at a bank   2
+
+
+The overlapping words are/is 
+in 
+
+The Overlap for the Sense below is 
+bank: act as the banker in a game or in gambling   1
+
+
+The overlapping words are/is 
+in 
+
+The Overlap for the Sense below is 
+bank: be in the banking business   1
+
+
+The overlapping words are/is 
+deposits bank 
+
+The Overlap for the Sense below is 
+deposit, bank: put into a bank account   2
+
+
+The overlapping words are/is 
+cover bank 
+
+The Overlap for the Sense below is 
+bank: cover with ashes so to control the rate of burning   2
+
+
+The overlapping words are/is 
+in can bank 
+
+The Overlap for the Sense below is 
+trust, swear, rely, bank: have confidence or faith in   3
+
+The best sense for given context is :depository financial institution bank banking concern banking company :a financial institution that accepts deposits and channels the money into lending activities
